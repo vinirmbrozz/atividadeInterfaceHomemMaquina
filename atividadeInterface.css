@@ -1,0 +1,45 @@
+#navBlue{
+    background-color: rgb(1, 32, 116);
+    height: 70px;
+}
+#buttonBlue{
+    background-color: rgb(1, 32, 116);
+}
+#fonteBranca{
+    color: white;
+    font-style: normal;
+    font-size: 15px;
+}
+#fonteBrancaIdeia{
+    color: white;
+    font-style: normal;
+    font-size: 27px;
+}
+#fonteBranca:hover{
+    color: rgb(12, 87, 199);
+}
+#fonteH5{
+    color: rgb(43, 121, 167);
+    font-style: normal;
+    background-color: rgb(255, 255, 255);
+}
+ul{
+    display:flex;
+    List-style-type: none
+    }
+.form-control-dark {
+    border-color: var(--bs-gray);
+  }
+  .form-control-dark:focus {
+    border-color: #fff;
+    box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+  }
+  
+  .text-small {
+    font-size: 85%;
+  }
+  
+  .dropdown-toggle {
+    outline: 0;
+  }
+  
